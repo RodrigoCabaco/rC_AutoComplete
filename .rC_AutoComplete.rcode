@@ -23,6 +23,7 @@ range:
 ident:
 sleep
 SendKeys
+SendKeys
 strToNum
 numToStr
 updateStrListValue
@@ -53,5 +54,4 @@ yellow
 magenta
 red
 toLower
-
-
+SendKeys.enter
