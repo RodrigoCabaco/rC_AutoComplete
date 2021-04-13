@@ -10,7 +10,9 @@ filestream
 keys
 WriteToFile
 ReadFile
-Write 
+replace:
+color.reset
+Write
 WriteStr
 WriteNum
 method_file
